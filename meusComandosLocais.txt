@@ -1,0 +1,11 @@
+2026-11-18 12:32:49 git pull
+2026-11-18 12:32:48 clear
+2026-11-18 12:29:12 git push -u origin main
+2026-11-18 12:28:38 git commit -m "5º tarefa cumprida "
+2026-11-18 12:28:27 git add index.html disciplina.html
+2026-11-18 12:13:39 git commit -m "4º tarefa: adiciona navegação e conteudo à pagina inicial"
+2026-11-18 12:13:22 git add index.html
+2026-11-18 12:12:52 ls
+2026-11-18 12:12:51 cd LABINFO-03-26-27/
+2026-11-18 12:12:37 git clone https://github.com/tooomasparrch/LABINFO-03-26-27.git
+=== Comandos do Codespace === 
