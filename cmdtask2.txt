@@ -1,0 +1,17 @@
+    1  git stats
+    2  git status
+    3  clear
+    4  git add identificacao.txt
+    5  git commit -m "Tarefa 1: adiciona o ficheiro de identificaçao"
+    6  git push -u origin main
+    7  clear
+    8  pwd
+    9  cd A139710/
+   10  pwd
+   11  echo "Teste de LI 2026/2027" > README.md
+   12  ls
+   13  clear
+   14  cd ..
+   15  ls
+   16  pwd
+   17  history > cmdtask2.txt
