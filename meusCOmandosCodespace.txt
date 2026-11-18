@@ -1,0 +1,9 @@
+    1  git pull
+    2  cp index.html disciplina.html
+    3  git add disciplina.html
+    4  git commit -m "Cria disciplina.html a partir de index.html"
+    5  git push -u origin main
+    6  clear
+    7  git pull
+    8  history >meusCOmandosCodespace.txt
+=== Comandos do Codespace ===
