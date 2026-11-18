@@ -8,4 +8,4 @@
 2026-11-18 12:12:52 ls
 2026-11-18 12:12:51 cd LABINFO-03-26-27/
 2026-11-18 12:12:37 git clone https://github.com/tooomasparrch/LABINFO-03-26-27.git
-=== Comandos do Codespace === 
+=== Comandos do computador === 
