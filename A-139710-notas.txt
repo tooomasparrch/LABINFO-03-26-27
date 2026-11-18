@@ -1,0 +1,55 @@
+Tomás Parracho
+139710
+
+pwd -> /workspaces/LABINFO-03-26-27
+
+git status 
+git add identificacao.txt
+git commit -m "Tarefa 1: adiciona o ficheiro de identificaçao"
+
+cd A139710
+pwd -> /workspaces/LABINFO-03-26-27/A139710
+
+echo "Teste de LI 2026/2027" > README.md
+cd ..
+pwd -> /workspaces/LABINFO-03-26-27
+
+history > cmdtask2.txt
+
+git add ./A139710/README.md 
+git add cmdtask2.txt 
+git commit -m "2º tarefa concluida"
+git push -u origin main
+
+git add index.html
+git commit -m "3º tarefa concluida"
+git push -u origin main
+
+git clone https://github.com/tooomasparrch/LABINFO-03-26-27.git
+cd LABINFO-03-26-27
+git add index.html
+git commit -m "4º tarefa: adiciona navegação e conteudo à pagina inicial"
+git push -u origin main
+
+git pull
+cp index.html disciplina.html
+git add disciplina.html
+ git commit -m "4º tarefa: adiciona navegação e conteudo à pagina inicial"
+git push -u origin main
+
+git pull
+git add index.html disciplina.html 
+git commit -m "5º tarefa cumprida "
+git push -u origin main
+
+history >meusCOmandosCodespace.txt
+cat meusCOmandosCodespace.txt 
+
+git add meusCOmandosCodespace
+git commit -m "Tarefa 6: registra o historico do COdespace"
+git push -u origin main
+
+git pull
+git add meusComandosLocais.txt
+git commit -m "Tarefa 6: registra o historico do Codespace"
+git push -u origin main
